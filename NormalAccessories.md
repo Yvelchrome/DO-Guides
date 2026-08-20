@@ -3,8 +3,8 @@ Normal accessories are your first major accessory upgrade after the rookie acces
 This guide covers:
 
 - Obtaining normal accessories.
-- Getting the correct stats.
 - Upgrading them to 200% Digitary Power.
+- Getting the correct stats.
 
 ---
 
@@ -21,7 +21,7 @@ The current accessory progression is:
 
 ## Obtaining Normal Accessories
 
-You can obtain them by farming the Normal Mode of the Dark Master's dungeons.
+You can obtain them by farming the Normal Mode of the Dark Master's dungeons with a party.
 
 | Accessory | Dungeon     | Location                |
 | --------- | ----------- | ----------------------- |
@@ -40,9 +40,32 @@ Farm [Apocalymon Story Mode](https://share.odyssey-calc.com/guides/dungeon-boss-
 
 ---
 
+## Digitary Power
+
+All your accessories should be increased to **200% Digitary Power**.
+
+Start by using [[item:i19z9whx|Amazing Digitary Power Stone]] (ADPS)
+
+For the remaining percentage, use one of these methods:
+
+**Recommended**: Go to **Olympos Festival Island**, speak to Zudomon and open the **Dismantle** tab.
+Dismantling normal accessories gives:
+
+- Increase Digitary Power Stone
+- Decrease Digitary Power Stone
+
+These provide a guaranteed +1% or -1% to digitary power.
+
+> Recommended:
+> - Below **195%** → use Decrease Stones to **190%**, then ADPS to **200%**.
+> - Above **195%** → use Increase Stones to **200%**.
+> - You can also use Increase Stones directly between **191% to 200%**.
+
+Alternatively, buy Digitary Power Stones from any Koromon NPC or the Vending Machine from the Membership menu.
+
 ## Rolling Accessory Stats
 
-![](https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/fd1450ff-8382-46f9-9410-e15c853edc84.png)
+![Your current options and values on the left, the possible options and their value range on the right.](https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/fd1450ff-8382-46f9-9410-e15c853edc84.png)
 
 After identifying an accessory, it will receive random options chosen from the list of available stats.
 
@@ -54,38 +77,34 @@ Use the following items to optimize your accessory:
 
 ### Option Change Stone (OCS)
 
-An OCS rerolls the **options themselves**.
+OCS rerolls the **options themselves**, while their values are rerolled automatically.
 
-For example, if an accessory has: **HP% / DS% / Block / SK%**
+Example: **HP% / DS% / BL / SK%** → **AT% / AT% / CD / HP%**
 
-Using an OCS can change those options into completely different ones from the available stat pool, such as: **AT% / AT% / CD / HP%**
-
-> Only the type of stat changes, its value is rolled automatically within the allowed range.
-
-You can lock up to two options before rerolling.
+You can lock up to 2 options before rerolling.
 
 > Recommendation: Lock every desirable stat as soon as you obtain it. In the long run, this gives you the highest chance of reaching your target combination while minimizing the number of OCS used.
 
 
 ### Number Change Stone (NCS)
 
-An NCS rerolls only the **value of a selected option**.
+NCS rerolls the **value of a selected option** without changing the option itself.
 
-For example: Critical Damage **[ 3.15% ]** -> Critical Damage **[ 4.82% ]**
+Example: Critical Damage **[ 3.15% ]** -> Critical Damage **[ 4.82% ]**
 
-> Both are the same option, but have different values.
+Use NCS after getting the correct options to increase their values.
 
-Use NCS after obtaining the correct options to increase each stat as close as possible to its maximum value.
+> You don't need to hit 100% of the possible value, 98-99% is enough and fairly easy to get.
 
 
 ### Rolling Order
 
 For the most efficient use of resources:
 
-1. Use OCS until the accessory has the desired options.
-2. Lock good options as you obtain them (up to two locks).
-3. Once all desired options are present, use NCS to maximize their values.
-4. Finally, increase the accessory to 200% Digitary Power.
+1. Increase the accessory to 200% Digitary Power.
+2. Use OCS until the accessory has the desired options.
+3. Lock good options as you obtain them (up to two locks).
+4. Once all desired options are present, use NCS to increase their values.
 
 ---
 
@@ -93,14 +112,15 @@ For the most efficient use of resources:
 
 At this stage, DPS is generally recommended for all roles, including Tanks, as early and mid-game content does not require specialized defensive accessories.
 
-### DPS / Support
-
-Stat priority: **CD = BA > AT%**
-
 > **CD** = Critical Damage
 > **BA** = Basic Attribute
 > **AT** = Attack
+> **HP** = Health
+> **DE** = Defense
 
+### DPS / Support
+
+Stat priority: **CD = BA > AT%**
 
 | Ring                | Necklace            | Earrings            | Bracelet            |
 | ------------------- | ------------------- | ------------------- | ------------------- |
@@ -117,25 +137,3 @@ Stat priority: **HP% > CD = BA >= DE%**
 | Ring                 | Necklace            | Earrings            | Bracelet            |
 | -------------------- | ------------------- | ------------------- | ------------------- |
 | HP% / HP% / HP% / BA | HP% / HP% / BA / BA | HP% / HP% / CD / CD | HP% / HP% / CD / CD |
-
----
-
-## Digitary Power
-
-All your accessories should be increased to **200% Digitary Power**.
-
-Start by using [[item:i19z9whx|Amazing Digitary Power Stone]] (ADPS)
-
-For the remaining percentages, travel to **Olympos Festival Island**, speak to Zudomon and open the **Dismantle** tab.
-
- By dismantling mormal accessories, you can obtain:
-
-- Increase Digitary Power Stone
-- Decrease Digitary Power Stone
-
-These provide a guaranteed +1% or -1% to digitary power.
-
-> Recommended methods:
-> - If your accessory is below **195%**, use Decrease Stones until **190%**, then finish with ADPS.
-> - If your accessory is above **195%**, use Increase Stones until **200%**.
-> - You can also use Increase Stones directly from **191% to 200%**.
