@@ -376,7 +376,7 @@ If you want to hatch another digimon, you are also free to do your own research,
 > - Leveling to 90
 > - Maxing all skills to 10/10 of the used digimon's form
 
-Once your digimon reaches Lv90, teleport to Verdandi. It's the fastest place to level any digimon from this point onward.
+When your digimon reaches Lv90, teleport to Verdandi. It's the fastest place to level any digimon from this point onward.
 The best leveling spot are the DexDoruGreymon groups near the lake in the bottom-right of the map.
 
 > Once you get a stronger, maybe you are already now, you will even be able to start leveling there with a level 1 digimon.
@@ -422,7 +422,7 @@ Once you have all 5:
 2. Buy the remaining required materials from the market if needed.
 3. Craft your **True Digivice**.
 
-![](image_replace.png)
+![](https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/672ebbad-20ae-48cf-91c7-4d7f64497356.png)
 
 Identify it, then get your [[item:iz3j5gs|Option Change Stone]], [[item:il4nw4i|Number Change Stone]] and [[item:i19z9whx|Amazing Digitary Power Stone]], your Digivice can have 8 different options, you should roll both the **Basic** and **Elemental** attributes matching the Digimon you're currently using, as both increase the digimon's damage no matter the attribute advantage.
 
@@ -541,7 +541,7 @@ The current most efficient method is farming Mugen N :
 A typical party composition will be 1 Tank, 1 Support and 2 DPS.
 You may however encounter parties where players run 3 DPS and 1 Hybrid/Support/Tank. Or Even 4 DPS for the most advanced.
 
-> One of the current META composition for SS+ locked dungeons is 1 Beelzemon BM, 1 Lucemon SM, and 2 B/WGX (BWGX or WGX depending on the enemy's attribute).
+> One of the current META composition for SS+ locked dungeons is 1 [[digimon:d31fxga|Beelzebumon BlastMode]], 1 [[digimon:d1r632k4|Lucemon: Wild 2nd Mode]], and 2 [[digimon:d1jpeu3d|WarGreymon X]] or [[digimon:d1k8ts4t|BlackWarGreymon X]] (BWGX or WGX depending on the enemy's attribute).
 > The B/WGX players should also be the most geared, as they deal most of the damage.
 
 > There is also a weekly quest you can get from your digivice each weekly reset ([[quest:q1wasddn|Preparing for the Apocalypse]]) that rewards you with half the materials needed for 1 corrupted accessory.
