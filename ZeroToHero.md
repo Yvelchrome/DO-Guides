@@ -16,10 +16,9 @@ This guide recommends what I believe is the best approach and progression order 
 
 Tamer choice does not really matter, even in the current endgame. Pick whichever you like, as you can change fairly easily later.
 
-- [Official Reference for Starter Tamers](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-guide-for-new-heroes-6Klf1mAAUf#h-4-starter-tamers)
-- [Official Reference for Starter Digimon](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-guide-for-new-heroes-6Klf1mAAUf#h-31-starter-digimon-roles)
+One of the fastest combination for clearing the main story/quest (MSQ) is **Ryo Akiyama + **[[digimon:dfwwn6s|Agumon(Classic)]].
 
-One of the fastest combination for clearing the main story/quest (MQ) is **Tai + **[[digimon:dfwwn6s|Agumon(Classic)]].
+**Ryo Akiyama's Passive Skill** increases Vaccine Digimon AT by 5% and his **Active Skill** increases Skill Damage by 60% and AT by 100% for 3 minutes.
 
 [[digimon:dfwwn6s|Agumon(Classic)]]'s entire digivolution line consists of damage dealers and has attribute advantage against most dungeon bosses encountered during the MQ.
 
@@ -29,26 +28,32 @@ One of the fastest combination for clearing the main story/quest (MQ) is **Tai +
 
 ## Early Game
 
-### The Beginning
+### The Beginning: Digimon Adventure 01
 
-Your goal at this stage is to rush the MQ.
+Your goal at this stage is to rush the MSQ.
 
 Once you spawn in Village of the Beginning (VoB):
 
-1. Complete the MQ there starting with [[quest:q17rw1jt|Awakening]] until it asks you to travel to Silver Lake.
-2. Accept and complete Gennai's [[quest:qnqne14|Welcoming Quest-1]] [[quest:qqej8zo|Welcoming Quest-2]].
-3. Accept [[quest:q1324tx|First Steps]] from Gennai.
+1. Accept and complete Gennai's [[quest:qnqne14|Welcoming Quest-1]] [[quest:qqej8zo|Welcoming Quest-2]].
+2. Accept [[quest:q1324tx|First Steps]] from Gennai.
+3. Accept [[quest:q1ybvbv1|[Agent] ADAMAS Recruitment]] from Justimon and complete it.
+4. Accept the next Quest [[quest:q14o5mkj|[Daily] Rookie Agent Assignment]] and use [[item:i1cec4wq|Rookie Agent Mission Box]] in your Inventory for the next Quest you get via your Digivice at the bottom right. **This Quest is a important Daily!**
+5. Complete the MQ there starting with [[quest:q17rw1jt|Awakening]] until it asks you to travel to Silver Lake.
 
 ---
 
-Once you have [[quest:q1324tx|First Steps]] and the MQ sends you to Silver Lake:
+Once you have [[quest:q1324tx|First Steps]] and the MSQ [[quest:qlebn9h|To Silver Lake]] sends you to Silver Lake:
 
 1. Go through the portal.
-2. Continue the MQ until you unlock and complete the dungeon **Agumon's Madness Story Mode**
+2. Continue the MSQ until you get the Quest [[quest:q96e09h|Agumon Under Control of Black Gear]].
 
-[[dungeon:u2ooqoe|Agumon's Madness|Story|https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/01779468-75ae-48a4-8e51-2cf0996e3ef2.png]]
+> Note: The Field Raid Boss [[digimon:dfwwn6s|Agumon(Classic)]] takes a while to kill and also drops some Materials you need in the Future.
 
-> Clearing this dungeon should complete [[quest:q1324tx|First Steps]].
+You also get Clothing Items (Explorer/Digital Gear Box), Attribute Orbs (Attribute Orb Box) and ChipSets (ChipSet Box) from killing  Digimon in Silver Lake and scanning **Rank1/High Class DigiEggs** 
+ Use those. You will upgrade them til Endgame and help you drastically in the Early Game.
+
+**Important:** Gather all Gear Boxes or Gear in your Warehouse. You will need all of them in the Lategame. Each Explorer Gear A-F and Digital Gear A-F. Also 2 pair of each Trainee Clothing set. If you are lucky with the Box, equip **Digital Gear B**. Doesn't matter that much tho.
+
 > Claim the rewards from your Digivice (the exclamation mark icon at the bottom-right of your screen).
 
 #### Starter Rewards
@@ -71,6 +76,8 @@ You will receive one accessory for each slot with fixed stats.
 
 Right-click each accessory to identify it, then use [[item:i19z9whx|Amazing Digitary Power Stone]] (ADPS) to get the accessories as close as possible to 200%. (The few missing percentages do not matter for now.)
 
+> **Quick Note:** You can get EXP Booster in the Season Pass - Don't use them. They are very limited. Also if you happen to not get a **follow up MSQ** just press **"M"** and check the Map for a Quest. It happens a few times.
+
 ---
 
 You will also notice:
@@ -84,9 +91,42 @@ These will be used later on.
 
 ---
 
-###  MQ till Odaiba + Limit Breaks
+### The first Dungeon + quick Grind Session
 
-Continue the MQ until the end of the File Island maps and reach level 50 on your digimon.
+1. Continue the MSQ til you get the Quest [[quest:q10173tt|The First Trial]] and complete it.
+
+> **Important Note:** Each time a Quest tells you to clear a Dungeon, its ment to be cleared in **Story Mode**.
+
+2. After you kill Omegamon Merciful Mode (short: OMM), press Restart to re-enter the Dungeon and grind til your Digimon evolves to [[digimon:dvq7beo|Greymon]]. 
+3. Keep doing OMM Story Mode til Digimon Level 28 so you get [[digimon:dvq7beo|Greymon]]'s AOE Skill unlocked.
+
+> **Note:** You can put all Skill Points into each Skill. Only Rookie, Champion and Armor Digimon can get higher Skill Level than 10.
+
+4. Upgrade your AOE Skill (F3) first.
+5. From OMM Story Mode, you get [[item:illna3q|Blue Light of DigiSoul]] which is pretty much the only **self Healing Item you get in the Game** Turn on the **Auto Heal** Function at the bottom right, go into their settings via the gear symbol next to it and add a rule. Drag the [[item:illna3q|Blue Light of DigiSoul]] out of your Inventory into it, select the **TARGET** Digi HP, **BELOW** 90, leave it on **%** and close the window. The same you'll do later for Tamer X-Gauge.
+
+---
+
+#### Quick Disclaimer about Field Raid Bosses
+
+Field Raid Bosses spawn on each Channel every 3 minutes and at the beginning of the fight get a **world boss protection** buff for 5 seconds and are immune to damage at that time, so use your skills after the buff expires.
+
+In the early game they are pretty tanky so it is useful to buff yourself before using your skills. **Melee Class* buffs, which your [[digimon:dvq7beo|Greymon]] is, are:
+- **F10: Digital Hazard** (Increased Attack Speed by 15%, Attack by 30% and Critical Damage by 50% for 15 seconds.)
+- **F6: Berserker Soul** (Increases Attack Speed by 12%, Critical Damage by 20% and Attack by 20% for 15 seconds.)
+- **F5: Rex Fury** (Increases Attack Power by x (+60 per Skill level) for 20 seconds.)
+- **Tamer Skill: Suppression** (Increases skill damage by 60% and Attack by 100% for 10 seconds.)
+
+**F4: Mega Flame** is your highest burst skill and should always be used buffed if possible.
+
+> You can check their raid timer via the yellow **clock icon** under the minimap. In there, you can also view their respective rewards. Those Field Raid Bosses are important later.
+
+---
+
+###  MSQ till Tokyo-Odaiba + Limit Breaks
+
+Continue the MSQ until the end of the File Island maps and reach level 50 on your digimon.
+If you reach level 50 before, do the Limit Break first and continue with the MSQ after.
 
 #### Level 50 Limit Break
 
@@ -96,22 +136,51 @@ To do so:
 
 Once your digimon reaches level 50 and you have completed [[quest:q1e0s4a0|Mastemon's Report]] :
 
-1. You should have received a digivice notification. Click on it, accept [[quest:q1oplfgh|Level 50 Limit Reached!]] and go to VoB to complete it by speaking to Mirei.
+1. You should have received a digivice notification. Click on it, accept [[quest:q1oplfgh|Level 50 Limit Reached!]] and go to **Village of the Beginning (short: vob)** to complete it by speaking to Mirei.
 2. Accept [[quest:q1yp5r6f|Limit Break! Level 50]] from Mirei.
-3. Complete the required dungeon, **Agumon Story Mode**.
-
-[[dungeon:u2ooqoe|Agumon's Madness|Story|https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/01779468-75ae-48a4-8e51-2cf0996e3ef2.png]]
+3. Complete the required field raid boss, [[digimon:dfwwn6s|Agumon(Classic)]] .
 
 ---
 
-After completing the Limit Break, continue the MQ.
+After completing the Limit Break, continue the MSQ.
 
 > Whenever you reach the required level, unlock your Ultimate Digimon using the Evoluters you received earlier.
-> It may be better to continue using Champion until you unlock your Ultimate form's 4th skill.
+> It may be better to continue using Champion until you unlock your Ultimate form's 4th skill at level 54.
 
 ---
 
-#### Level 70 Limit Break
+#### Server Continent Canyon Dungeon
+
+When you reach Server Continent Desert you eventually need to go into the Dungeon: 
+
+[[dungeon:u11rikm6|Server Continent Canyon|Story]]
+
+In there, you need to defeat [[digimon:d1op179x|Togemon]]. In order to do that, you need to first defeat [[digimon:dneh6db|Drimogemon]]'s, the Miniboss [[digimon:d1i8znp9|Gazimon]]. With that being done, the next Digimon spawn. You need to defeat all Digimon in order to summon [[digimon:d1op179x|Togemon]] Boss at the end to complete the dungeon.
+
+---
+
+#### Area Completion Rewards
+
+> You will notice after completing the quests on File Island and Server Continent, that you have many quest in your digivice ready to be completed :
+> [[quest:q1cw6bo|Area Completion Reward File Island]]
+> [[quest:q11jgq8p|Area Completion Reward Server Continent]]
+> and more later in the MSQ..
+> These are pretty important as they reward you with both a [[item:i1mp3dqc|Starter Pack Ticket]] and a [[item:iz2m4d0|Evolution Ticket]], which later can be exchanged for Mega Evolution items or BurstMode items (SS+).
+
+---
+
+#### Tokyo-Odaiba
+
+After you complete the Server Continent, you'll be in **CampSite** in Toyko-Odaiba. Continue the MSQ.
+If it happens that you cant complete the quest [[quest:q17ahaou|The Buses]], switch to **Tamer Controls** if you are controlling your Digimon. 
+
+But later in the game and in dungeons you use the **Digimon Controls** in order to dodge boss mechanics better.
+
+> In **Shibuya** the Digimon are aggressive and very dense packed. Do not AOE them in your current stage. They are very powerful and might oneshot you. Single them out while questing there.
+
+---
+
+#### Level 70 Limit Break + getting Mega Evolution
 
 Once your digimon reaches level 70 and you have completed [[quest:q182jhml|Hikari Sees Odaiba]] :
 
@@ -121,41 +190,87 @@ Once your digimon reaches level 70 and you have completed [[quest:q182jhml|Hikar
 
 [[dungeon:urb9jgm|The Rise of the Fallen Angel|Story|https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/7d156b48-7040-4f8d-aef2-ff6d0c9d609e.png]]
 
----
+4. In **VoB** go to **Culumon** and under the section **Evolution Exchange** -> [DR]Dragon's Roar get [[item:ismj3pt|Brave Shield]] and [[item:i1omq305|DramonBreaker]] to evolve your [[digimon:d1wxjqjk|MetalGreymon]] to [[digimon:dm9fc8r|WarGreymon]] and [[digimon:dzkw288|VictoryGreymon]] later.
 
-#### Area Completion Rewards
-
-Afterward, continue the MQ until you unlock the Spiral Mountain maps and stop there for now.
-
-> You will notice after completing the quests on File Island, Server Continent, and Tokyo-Odaiba, that you have many quest in your digivice ready to be completed :
-> [[quest:q1cw6bo|Area Completion Reward File Island]]
-> [[quest:q11jgq8p|Area Completion Reward Server Continent]]
-> [[quest:qp2dp8j|Area Completion Reward Odaiba]]
-> These are pretty important as they reward you with both a [[item:i1mp3dqc|Starter Pack Ticket]] and a [[item:iz2m4d0|Evolution Ticket]], the latter can be exchanged for free Mega items or BM (SS+).
+> Continue with the MSQ after the Limit Break.
 
 ---
 
-### Early Clothing
+#### Quick Leveling Session
 
-Your next objective is to fill every clothing slot, Search the market for `digital`.
+1. Continue your MSQ until you are at **Big Sight**.
+2. Enter and clear the Dungeon **The Dark Roar** in Story mode until you are level 75. This Dungeon gives massive EXP and is used for leveling your digimon in the early game. You get 2.400.000 EXP which is round about 10-15% EXP each run without EXP Booster (Don't use them yet)
 
-Clothing pieces are sorted by letter. Ideally, you want **Digital B** clothes for later.
+[[dungeon:uzyxsi2|The Dark Roar|Story]]
 
-If you're on a budget, it's perfectly fine to buy any clothing piece with an attack line for now, which includes:
+3. Evolve into [[digimon:dzkw288|VictoryGreymon]] and continue with the MSQ until you get the [[quest:qp2dp8j|[Area Completion Reward] Odaiba]].
 
-- B
-- D
-- F
+> [[digimon:dzkw288|VictoryGreymon]] has **two** AOE Skills which are great to deal with multiple Digimon later.
 
-> You can also farm digital clothes by scanning **blue eggs** you drop from killing monsters in Silver Lake.
+---
 
-Once you have one piece for every slot, go to **Zudomon** in **Olympos Festival Island** and upgrade each piece for a few M:
+### Continue MSQ or farm Clothes
 
-1. Enhanced
-2. Superior
+After you completed **Odaiba** you can go to **Mirei Mikagura** in Odaiba and continue the MSQ in **Forest of the Beginning** or you farm your clothes, attributes and chipsets at Field raid bosses.
+
+> At this point, the Digimon are getting stronger and stronger and while you can still do the MSQ it is always better to get stronger before you continue. In order to do that you need to farm specific Field raid bosses
+
+---
+
+#### Early Clothing
+
+Your next objective is to fill every clothing slot with **Digital Gear**.
+
+Clothing pieces are sorted by letter. Ideally, you want **Digital B** clothes but you will need each letter in the endgame for **Homeros Clothing Set** But that's not needed right now.
+
+> You can farm digital clothes by defeating specific field raid bosses on each channel:
+
+| Leomon (Lost Historic Site) |
+| --- |
+| Top Box C |
+| Bottom Box C |
+
+![Leomon Field Raid in Lost Historic Site](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/bc637448-2328-42a0-9cbf-6259b05adf35.png)
+
+---
+
+| Shellmon (File Island Waterfront) |
+| --- |
+| Head Box C |
+| Fashion Box C |
+
+![Shellmon Field Raid in File Island Waterfront](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/444c2736-963d-4953-9375-db8cf0023fd2.png)
+
+---
+
+| Mammothmon (Valley Of Light) |
+| --- |
+| Gloves Box C |
+| Shoes Box C |
+
+![Mammothmon Field Raid in Valley of Light](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/77832b25-3989-42e6-9e1d-c3bde71b4459.png)
+
+---
+
+**Box C contains:** Explorer B, Digital B, and Digital F. Kill the raids til you get one of each **explorer b** and **digital b**. Keep **digital f** for future set (homeros). If you get all the explorer b and digital b upgrade them on zudomon.
+
+> **Warning:** remove attributes before upgrading any clothes or the attributes in it will be deleted.
+
+> You can also search the market for `digital` and buy them there. You also need the 'explorer' Gear too in order to combine them later for the **Olympian Clothing Set**
+
+Once you have one piece for every slot, go to **[[digimon:d1f70bhk|Zudomon]]** in **Olympos Festival Island** and upgrade each piece.
+
+1. Enhanced (Overall cost: **10M 500B**)
+2. Superior (Overall cost: **22M 500B**)
+
+> After you get the **Superior Digital Set** you are done for now but you can also craft the **Olympian Set** if you want. It is out of your budget tho, so you have to sell crowns or farm inefficently to get the Clothes.
+
+3. Olympian (Overall cost: **4T 500M** and **6 [[item:ipmruh6|Olympian Data Core]]** and **6[[item:i3rcj1s|Chrome Digizoid]]**)
+
+**[[item:ipmruh6|Olympian Data Core]]** and **[[item:i3rcj1s|Chrome Digizoid]]** you can get via the Daily Quest: [[quest:q1j3ue4c|[Daily] Marsmon's Routine]]. You get 1 each day so you need 6 Days to complete it. You can also just buy them in the market.
 
 > Zudomon in Olympos Festival Island is a NPC that carries many upgrades throughout the game.
-> Travel to **Olympos Festival Island** by speaking to Pegasusmon in VoB.
+> Travel to **Olympos Festival Island** by speaking to [[digimon:dk8z8dv|Pegasmon]] in VoB.
 
 ---
 
@@ -168,18 +283,16 @@ Once your clothes are **Superior**, it's time to slot in attributes, search the 
 - 3 AT
 - Optionally: 6 DS
 
-> MS is currently useless in this server.
-
-> You can also farm clothes attributes by scanning **green eggs** you drop from killing monsters in Silver Lake.
+> You can also farm clothes attributes by scanning **green eggs** you drop from killing monsters in **Silver Lake**.
 
 > You will have more attributes than available slots for now. This is intentional and prepares you for the next clothing upgrade, however you may refrain from buying 1 of each attributes (2 for DS) for now, but keep in mind it will be needed later.
 
-Once you have all the attributes, upgrade them at Zudomon as well:
+Once you have all the attributes, upgrade them at Zudomon aswell:
 
 1. Enhanced
 2. Superior
 
-To equip them, talk to Gardromon in VoB, then :
+To equip them, talk to Gardromon in VoB, then:
 
 1. Go in the "Attribute Management" tab
 2. Slot in your piece of clothing
@@ -196,13 +309,31 @@ To equip them, talk to Gardromon in VoB, then :
 
 ---
 
-### Starter Mega Digimon
+#### ChipSets
 
-Your next goal is to unlock your starter Mega Digimon. Hopefully, you picked [[digimon:dfwwn6s|Agumon(Classic)]] as your starter, as it makes progression much easier.
+For ChipSets you want [ALL] AT ChipSets which you can farm at [[digimon:d18gxr8i|Gatomon]] Field Raid Boss in **Fuji TV Rooftop**
 
-> If you didn't consider getting him with one of your [[item:i1mp3dqc|Starter Pack Ticket]].
+![Gatomon Field Raid Boss Fuji TV Rooftop](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/3bd415e7-ea6c-4ee4-bca2-33360f8443c7.png)
+
+Once you  have 4 [ALL] AT ChipSet R1, upgrade them at Zudomon aswell:
+
+1. R2
+2. R3
+3. R4 
+
+> R4 cost a bit more, you might not have enough [[item:i1apqmn8|Verdant Core]] which you can get from [[digimon:dyni2b9|Meramon]] Field Raid Boss in **Silent Forest**
+
+![Meramon Field Raid Boss in Silent Forest](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/afd5cc21-2e9e-4cef-ab10-f24588b8dcb3.png)
+
+---
+
+### Starter Mega Digimon Part 2
+
+Your next goal is to unlock your starter Mega Digimon if you didn't do this at Level 70 Limit Break. Hopefully, you picked [[digimon:dfwwn6s|Agumon(Classic)]] as your starter, as it makes progression much easier.
+
+> If you didn't, consider getting him with one of your [[item:i1mp3dqc|Starter Pack Ticket]].
 > I strongly recommend [[digimon:dfwwn6s|Agumon(Classic)]] because [[digimon:dzkw288|VictoryGreymon]] is currently one of the strongest Vaccine AoE DPS while also performing well in single-target encounters.
-> [[digimon:d1jpeu3d|WarGreymon X]] is also currently the best SS+ VA melee single-target DPS once you're strong enough to work towards getting him.
+> [[digimon:d1jpeu3d|WarGreymon X]] is also currently one of the best SS+ VA melee single-target DPS once you're strong enough to work towards getting him.
 
 [How to get Mega digimons](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-zero-to-hero-guide-e3BWNVwpye#h-unlocking-mega-digimon)
 
@@ -211,6 +342,7 @@ Your next goal is to unlock your starter Mega Digimon. Hopefully, you picked [[d
 You can either:
 
 - Buy the evolution item from the market.
+- Get the evolution item with the [[item:iz2m4d0|Evolution Ticket]]
 - Craft it directly at Andromon in VoB.
 
 Depending on the market prices, one option may be cheaper than the other.
@@ -218,20 +350,24 @@ Depending on the market prices, one option may be cheaper than the other.
 > Agumon's Mega evolution items are both [[item:ismj3pt|Brave Shield]] and [[item:i1omq305|DramonBreaker]].
 
 > **IMPORTANT**: You *can* use your [[item:iz2m4d0|Evolution Ticket]] to get these Mega items for free. Tickets are farmable (~5 minutes each) and can be exchanged at Gennai (We will talk about this NPC later in the guide).
-> To use them, talk to Culumon in Olympos Festival Island.
+> To use them, talk to Culumon in Olympos Festival Island or in VoB.
+
+---
 
 ### General guidance
 
 #### Early Leveling
 
-Before doing any sort of farming, and until you're at mid/end game, level-up your digimon to level 90 by farming **VenomVamdemon Story Mode**.
+Before doing any sort of farming, and until you're at mid/end game, level-up your digimon to level 90 by farming **DarkTyrannomon Story Mode**.
 Also think about leveling your skill points on the desired digimon, all skills should be maxed (currently 10/10 maximum for ultimate and above forms)
 
-> Don't forget to use any sort of [[item:i1lirtkn|Amplification Booster+1000%]] to make the process much faster
+> Don't forget to use any sort of [[item:i1lirtkn|Amplification Booster+1000%]] to make the process much faster but remember, they are limited!
 
 > If you're starting from Lv1, killing digimons in the Tokyo-Odaiba maps or clearing easier Story Mode dungeons until you unlock Champion or all Rookie skills will make leveling in dungeons easier.
 
-[[dungeon:u11u777w|The Undying|Story|https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/4ac70027-1427-4677-bac3-6914ff24e4f3.png]]
+[[dungeon:uzyxsi2|The Dark Roar|Story]]
+
+> The Dungeon is located in **Tokyo-Odaiba: BigSight**
 
 ---
 
@@ -259,6 +395,7 @@ From this point onward, every digimon you actively use should have:
 
 > At this stage, you can obtain clones reliably by:
 > - Buying them from the market if you want to skip the next suggestions.
+> - **BEST** Farming Field Raid bosses (preferably the **File Island** ones because you have **0-7 Channels** there)
 > - Farming [MetalSeadramon Dungeon](https://odyssey-calc.com#/guides/dungeon-boss-locations?section=metalseadramon-mdg) (MDG) if somehow you already have a **good** cloned mega/BM VI digimon.
 > - Farming [Server Continent Canyon](https://odyssey-calc.com#/guides/dungeon-boss-locations?section=server-continent-canyon-scc) (SCC) Story Mode solo with a strong AoE DPS (such as [[digimon:dzkw288|VictoryGreymon]]).
 > - Farming SCC Normal Mode in a party as it does give 2 times more clones than its Story Mode or MDG.
@@ -267,15 +404,15 @@ From this point onward, every digimon you actively use should have:
 
 ---
 
-### Spiral Mountain MQ + Limit Break
+### Spiral Mountain MSQ + Limit Break
 
 Whether you're using [[digimon:dzkw288|VictoryGreymon]] or another, you should now have your digimon :
 
-- Level 90
+- Around Level 80-90
 - 125%+ size
-- Cloned correctly (at least AT15 and CT 120%+)
+- Cloned correctly (atleast AT15)
 
-You can now finish the Spiral Mountain MQ comfortably.
+You can now finish the Spiral Mountain MSQ comfortably.
 
 > To enter the first Spiral Mountain map, teleport to Odaiba and speak to Mirei near the center of the map.
 
@@ -285,9 +422,38 @@ You can now finish the Spiral Mountain MQ comfortably.
 
 ---
 
+#### Forest of Marionette - Goggles and Keychain
+
+On the Map **Forest of Marionette** are 4 new Field Raid Bosses:
+
+- Jureimon
+- MetalEtemon
+- Wargreymon
+- MetalGarurumon
+
+Continue the MSQ till you get to the Quest [[quest:q1or6d8s|Brothers in Steel]]. There you need to defeat Wargreymon and MetalGarurumon Field Bosses.
+
+> Wargreymon and MetalGarurumon can drop [[item:iwswwcw|Goggles of the Beginning]] which you should farm. They drop pretty frequent. and MetalEtemon drops [[item:i15re6xh|Keyring Data: Chosen Children]].
+
+![Field Raid Bosses in Forest of Marionette](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/3bf5babc-e52d-48b8-a58e-a971ccceb213.png)
+
+You should farm those three and get those two Items. They boost your Damage a bit and can be upgradable at Zudomon in **Olympos Festival Island** 
+
+After you have those two Items, continue with the MSQ.
+
+---
+
+#### Metal Empire Tips
+
+In Metal Empire, there are alot of dense <Leader> Digimon which are aggressive and can be pretty annoying. You can use [[item:idnymv0|ModeSelector]] on VictoryGreymon to use the **Ridable Mode**. They dont attack riding digimon.
+
+After you complete the Quest [[quest:qwo0jex|All of Us Fight Together - 3]], you get a new Weekly Quest via DigiVice [[quest:q1wasddn|[Weekly] Preparing for the Apocalypse]] which is important in the **Midgame** to craft **Corrupted Accessories**
+
+---
+
 #### Level 90 Limit Break
 
-Once your digimon reaches level 90 and you have completed [[quest:qe6wkm3|Keraunos Answers]] :
+Once your digimon reaches level 90 and you have completed the **Digimon Adventure 01 MSQ** [[quest:qe6wkm3|Keraunos Answers]]:
 
 1. You should have received a digivice notification. Click on it, accept [[quest:q1ec663p|Level 90 Limit Reached!]] and go to VoB to complete it by speaking to Mirei.
 2. Accept [[quest:q71s91u|Limit Break! Level 90]] from Mirei.
@@ -297,98 +463,12 @@ Once your digimon reaches level 90 and you have completed [[quest:qe6wkm3|Keraun
 
 ---
 
-### Verdandi and your first X-Antibody digimon
-
-If not done already, get 1 more level on your digimon to get him to level 91, this unlocks the ability to enter Verdandi after completing the quest [[quest:qwmzykb|To the Verdandi Terminal!]].
-
-Here the objective is quite simple, you need to complete the Verdandi MQ until you get both :
-- [[item:ivba8bo|Verdandi Egg Exchange Ticket]] by completing the quest [[quest:q13t0mqe|Anomalies are Detected, Investigation Required!]]
-- [[item:i5o4a71|XAI Ver I [Event]] + [[item:i1ej9mtl|X-Antibody]] by completing the quest [[quest:qpf7snc|For the Survival (5)]]
-
-You will exchange your [[item:ivba8bo|Verdandi Egg Exchange Ticket]] to the Digitamamon NPC for a **Dorumon Starter Pack** as it's the most powerful and versatile choice on the list.
-
-> Equip your [[item:i5o4a71|XAI Ver I [Event]]
-> Don't forget to put in the [Auto-Heal](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-guide-for-new-heroes-6Klf1mAAUf#h-auto-heal) system, "target" -> Tamer-X-Gauge, set "Below" to 299, and put your [[item:i1ej9mtl|X-Antibody]] in the corresponding slot.
-
----
-
-### New SS+ Digimon
-
-For the next step, you will have 3 possible branches, you could do them all if you really want, but I'd recommend to focus on 1 to save resources until you know what you're doing.
-
-> There is no real bad choice here, the most future-proof at this specific step will be DPS, then Tank, but Support is a strong pick too and arguably better than Tank at this stage.
-
----
-
-#### DPS
-
-Now that you got your Dorumon Starter Pack, open it, and hatch [[digimon:d1ql4gn6|Dorumon]].
-
-> This digimon is a bit special, it requires Tamer X-Gauge instead of the usual Tamer DS to evolve and maintain. So you need to make sure to never run out of [[item:i1ej9mtl|X-Antibody]] to use him, fortunately, these consumables are obtained easily by :
-> - Defeating monsters in Verdandi
-> - Completing Daily quests in Verdandi
-
-After hatching:
-
-1. Get the Mega form for [[digimon:dffhh64|Alphamon]], the item being [[item:isz3cu1|Grace of Nobility]].
-
----
-
-#### Tank
-
-Get a **V-mon Starter Pack** with one of your [[item:i1mp3dqc|Starter Pack Ticket]], open it, and hatch [[digimon:d1loxbth|V-mon]]
-
-After hatching:
-
-1. Get the Mega form for [[digimon:dl514np|Ulforce V-dramon]], the item being [[item:i1lnmt7p|Blue Digizoid]].
-
----
-
-#### Support
-
-Get a **Hawkmon Starter Pack** with one of your [[item:i1mp3dqc|Starter Pack Ticket]], open it, and hatch [[digimon:dkp5zw7|Hawkmon]]
-
-After hatching:
-
-1. Get the Mega form for [[digimon:d10jj674|Phoenixmon]], the item being [[item:ixy95ab|Life Force]].
-2. Go to the Olympos map, talk to Culumon, and take a BM item with one of your [[item:iz2m4d0|Evolution Ticket]] which will be [[item:i128vog4|Holy Wing]] to be able to unlock [[digimon:dfe5oik|Valdurmon]].
-
----
-
-These were recommendation based on :
-
-- The current META
-- What's reliably obtainable with the current update
-- Account future-proof considerations
-
-If you want to hatch another digimon, you are also free to do your own research, or by asking on Discord or using these community resources:
-
-- [Unofficial Tier List](https://odyssey-calc.com/#/tier-list)
-- Digimons usage in dungeons: [Unofficial leaderboard](https://odyssey-calc.com/#/meter)
-
----
-
-### Leveling to 110
-
-> Once you hatched your wanted digimon, make sure to do the basic steps of :
-> - Cloning
-> - Getting the size up
-> - Leveling to 90
-> - Maxing all skills to 10/10 of the used digimon's form
-
-When your digimon reaches Lv90, teleport to Verdandi. It's the fastest place to level any digimon from this point onward.
-The best leveling spot are the DexDoruGreymon groups near the lake in the bottom-right of the map.
-
-> Once you get a stronger, maybe you are already now, you will even be able to start leveling there with a level 1 digimon.
-
----
-
 ### Normal Accessories
 
 Your objective is to obtain normal accessories with PF stats and 200% Digitary Power.
 
 Farm 900 [[item:isd7r84|Odyssey Token]] by running Apocalymon Story Mode.
-With [[digimon:dffhh64|Alphamon]] I recommended earlier, you should be able to clear it with one F4, earning 16 tokens every 5 seconds. This takes about 5 minutes.
+With [[digimon:dzkw288|VictoryGreymon]], you should be able to clear it with one F4, earning 16 tokens every 5 seconds. This takes about 5 minutes.
 
 > You can farm 2400 [[item:isd7r84|Odyssey Token]] now to get a head start on the next step.
 
@@ -398,13 +478,15 @@ Exchange the tokens with Gennai in VoB for one of each available accessory.
 
 ![](https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/c0070dd8-d494-4cb1-a348-3015cd29a47a.png)
 
-> Optional for now : Farm the Bracelet from [Piedmon N](https://share.odyssey-calc.com/guides/dungeon-boss-locations?v=5&section=piedmon) (Normal dungeons and above require a party).
+> **Optional for now:** Farm the Bracelet from [Piedmon N](https://share.odyssey-calc.com/guides/dungeon-boss-locations?v=5&section=piedmon) (Normal dungeons and above require a party).
 
 > For stats recommendation and information on how to roll options and upgrade digitary power, see: [Normal Accessories Guide](https://odyssey-calc.com/#/guides/normal-accessories).
 
 ---
 
 ### Digivice
+
+> While farming the **Field Raid Bosses* each one of them has a 1% Chance to drop a [[item:i1kr1b27|True Digivice]] which you need and upgrade later on. 
 
 Your goal is to obtain **5** [[item:i1fgyfqa|Homeostasis Wish]].
 
@@ -433,7 +515,7 @@ For example :
 - [[digimon:dl514np|Ulforce V-dramon]] needs Vaccine + Light.
 - [[digimon:dfe5oik|Valdurmon]] needs Vaccine + Light.
 
-In this example, if this is your whole pool of digimon you use, you could consider getting a digivice with at least :
+In this example, if this is your whole pool of digimon you use, you could consider getting a digivice with at least:
 
 - Vaccine
 - Virus
@@ -441,38 +523,173 @@ In this example, if this is your whole pool of digimon you use, you could consid
 - Darkness
 - Fire
 
-Don’t expect to fit everything on 1 digivice if you have a larger pool of digimon, in endgame, you will most likely end up having at least 2 or even 3 digivices.
+> The Recommended attributes for the Digivice are: Virus, Data, Vaccine, Light, Darkness, Fire, Steel, Unknown
 
 [Attributes](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-zero-to-hero-guide-e3BWNVwpye#h-attributes)
 [Digivice](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-zero-to-hero-guide-e3BWNVwpye#h-digivice)
 
 ---
 
-#### Chipsets
+### Digimon Adventure 02 MSQ
 
-Once you have your digivice ready, it's time to get chipsets.
+To get started with the next MSQ you need to go to VoB and talk to **Mercurymon** to get the Quest [[quest:q1fauzoy|Quiet Years]].
+With the completion you get an [[item:i1e7jwo4|Armor Pack Ticket]].
 
-Use **4 [AT] Chipsets**. (or 4 [HP] Chipsets if you’re a main tank and need more survivability)
+1. Use the [[item:i1e7jwo4|Armor Pack Ticket]] to get the **Fladramon Pack** 
+2. Hatch [[digimon:de00who|V-mon]] and use the [[item:i1pxurhk|Digi-Egg of Courage]] to get [[digimon:d1tvr03j|Fradramon]].
 
-You have two options:
+> If you can, clone AT 15 and get his Size bigger than 127%.
 
-- Use family-specific Chipsets for maximum stats.
-- Use **All** Chipsets for convenience, as they work with every Digimon family at the cost of lower stats.
+3. Continue the MSQ with V-mon.
 
-> All [AT] Chipsets are generally much more expensive.
+> Tip: Use a [[item:i1ln1733|Super Amplification Booster
++500% [Event]]] to level V-mon quicker while doing MSQ.
 
-You can either buy the Chipsets directly or buy `[at] chipset box` (or  `[hp] chipset box`) and open them yourself.
+4. With the Digimon there being Level 100, you get alot of EXP and you can still defeat them one by one fairly easily.
 
-> You can also farm chipsets by scanning **green (AT / DE)** and **grey (HP / DS)** eggs you drop from killing monsters in Silver Lake.
+> With V-mon being a Hybrid Digimon, you need to use Stances to fight. Recommended is using the **Ranged Stance** the whole time. F10 heals and F4 gives a Shield, Heals and reduces damage taken by 8% for 15 seconds. After a few **Kuwagamon** defeats your Skills are already maxed out.
 
-Whichever option you choose, upgrade Chipset at Zudomon, just like Clothing and Attributes :
+5. At Level 75. Evolve into Fradramon and continue the MSQ. Most of the Digimon Adventure 02 Story is being Debuffed with **Evolution Supression [Armor]** which means you can only digivolve into an Armor digimon.
 
-1. Enhanced
-2. Superior
+---
+
+#### New Daily for the craftable DigiAura
+
+After you complete the Quest [[quest:qkn7wf3|Break the Spiral]] you get the new Daily Quest [[quest:qlu21vx|[Daily] Set Him Free]].
+
+After completion you get [[item:iicffge|MetalGreymon Blue Arm Parts]] and [[item:i1s6x83m|MetalGreymon Blue Head Parts]] which are used for a new craftable, permanent DigiAura. You can also do the Dungeon on **normal and hard** with a party. For hard, you need a **SSS Digimon** tho.
+
+After you did the Daily, continue with the MSQ.
+
+> **Tip:** New Armor Digivolution Eggs are obtainable via the Adventure 02 Dungeons in normal and hard modes, or via AOE Farming in those Maps. In the **Kaiser's Territory North** City at Digitamamon you can exchange [[item:imebcfe|Digimental Essence]] to craft new Armor Digi-Eggs. For each Egg you need 1000 [[item:imebcfe|Digimental Essence]] and a few more items.
+
+---
+
+### Digimon Tamers MSQ
+
+After the completion of Digimon Adventure 02 and the Quest [[quest:q1809sym|Everyone Home]] you'll get a Call from your Digivice.
+Start the Quest [[quest:qgkmssn|A call]] and finish through the Main Story Quests.
+
+---
+
+#### Level 110 Limit Break
+
+Once your digimon reaches level 110 and you have completed the **Digimon Adventure 02 MSQ** [[quest:q1809sym|Everyone Home]]:
+
+1. You should have received a digivice notification. Click on it, accept and go to VoB to complete it by speaking to Mirei.
+2. Accept [[quest:q1uazpw0|Limit Break! Level 110]] from Mirei.
+3. Complete the required dungeon, **BelialVamdemon Story Mode**.
+
+[[dungeon:uo8rggq|Belial Vamdemon Dungeon|Story]]
+
+When you are done with the Limit Break quest, finish the Digimon Tamers MSQ.
+
+---
+
+#### Leveling to 130
+
+> Once you hatched your wanted digimon, make sure to do the basic steps of:
+> - Cloning
+> - Getting the size up
+> - Leveling to 110 or 130
+> - Maxing all skills to 10/10 of the used digimon's form
+
+> The recommended spot to level is **Tokyo Bay** -> **Minato (Night)**. Also one of the best Spots to farm Tera.
+
+---
+
+### Verdandi and your first X-Antibody digimon
+
+> **Note:** The Digimon in Verdandi have pretty **high HP** and you have a **Evolution Supression Debuff** through the whole Verdandi Map and also if you aren't in a X-Antibody Digimon you'll also **get 50% more Damage and deal 50% less Damage**. I highly suggest to **skip* Verdandi until you are **Level 110 or Level 130** and continue the **Digimon Adventure 02 MSQ**. Otherwise, continue here.
+
+If not done already, get 1 more level on your digimon to get him to level 91, this unlocks the ability to enter Verdandi after completing the quest [[quest:qwmzykb|To the Verdandi Terminal!]].
+
+Here the objective is quite simple, you need to complete the Verdandi MQ until you get both:
+- [[item:ivba8bo|Verdandi Egg Exchange Ticket]] by completing the quest [[quest:q13t0mqe|Anomalies are Detected, Investigation Required!]] which you can accept at Mamemon X in VoB at Digimon Level 91. 
+- [[item:i5o4a71|XAI Ver I [Event]] + [[item:i1ej9mtl|X-Antibody]] by completing the quest [[quest:qpf7snc|For the Survival (5)]]
+
+You will exchange your [[item:ivba8bo|Verdandi Egg Exchange Ticket]] to the Digitamamon NPC for a **Dorumon Starter Pack** as it's the most powerful and versatile choice on the list.
+
+> Equip your [[item:i5o4a71|XAI Ver I [Event]]
+> Don't forget to put in the [Auto-Heal](https://docs.thedigitalodyssey.com/s/1ea1524b-2c7e-4369-9608-36acb1ef87b0/doc/digital-odysseys-guide-for-new-heroes-6Klf1mAAUf#h-auto-heal) system, "target" -> Tamer-X-Gauge, set "Below" to 299, and put your [[item:i1ej9mtl|X-Antibody]] in the corresponding slot.
 
 ---
 
 ## Mid Game
+
+### Getting Ready for normal dungeons
+
+#### DPS
+
+Use the [[item:i1mp3dqc|Starter Pack Ticket]] in VoB at **Bearmon** to get: **[[digimon:dli2qnl|Impmon]] Starter Pack**
+
+> This digimon is a range-dps and can buff the entire party with attack-speed and critical damage. Very useful for the upcoming Spiral dungeons in normal mode where you get your **Corrupted Accessories**.
+
+After hatching:
+
+1. Get the Mega form for [[digimon:d10d0snt|Beelzebumon]], the item being [[item:iur9m5j|Noble Being]] from Culumon at VoB with your [[item:iz2m4d0|Evolution Ticket]].
+2. For the BM form [[digimon:d31fxga|Beelzebumon BlastMode]], you need the item [[item:i1mdpvxi|Toy gun]] which is a bit harder to obtain. You can get it by scanning 4 BM items (use 4 [[item:iz2m4d0|Evolution Ticket]]'s for an BM Exchange item at Culumon) You get **Data of Overload** with which you can craft a Toy Gun at Culumon under the section Evolutions(Overloaded).
+3. You can also obtain BM items in Events.
+
+---
+
+#### Support
+
+Support Digimon arent usable until you get to the **lategame with SSS Digimon**. So dont bother hatching any.
+If you still want to get your Supports SSS ready already, you can get:
+
+1. Salamon(BlackGatomon) Starter Pack
+
+> Salamon is a very good Digimon because it can evolve into two very strong SSS Digimon: [[digimon:dnqtruu|Minervamon]] (Tank/Melee) and [[digimon:d17lxyxv|Lilithmon X]] (Heal/Caster).
+
+---
+
+#### Must-Have Digimon
+
+Use 4 [[item:i1mp3dqc|Starter Pack Ticket]] (if you dont have enough, farm at **Apocalymon Story Mode** to get:
+- Xuanwumon
+- Baihumon
+- Zhulongmon
+- Wormmon
+
+The four Holy Beasts are needed for the Deck Buff which is META at the moment.
+
+![Deckbuff Four Holy Beasts](https://share.odyssey-calc.com/guide-images/1935dd90-4e2c-439a-ab87-f95675ac0341/4dfd8897-8b33-4ae3-8aa2-1d97974d08bc.png)
+
+You also need 3 [[item:iz2m4d0|Evolution Ticket]] for their Evolutions:
+- [[item:i12f32xh|Guardian of the North]]
+- [[item:i100ve9f|Guardian of the South]]
+- [[item:izjtgc4|Guardian of the West]]
+
+> For Qinglongmon, you need to do the **Dungeon QDGN** to get [[item:i12f32xh|Guardian of the North]] and also [[item:inamgg1|Reinforced Mercenary DigiEgg[Lv.4-5]-Qinglongmon]].
+
+[[dungeon:u1n8llkk|Qinglongmon Dungeon|Normal]]
+
+You can also buy those in the Market.
+
+ For Wormmon you want to get **Paildramon**. In order to get him you need:
+
+1. The Evolution Item for V-mon: [[item:i1h2cu1|Desperado Blaster - Alpha]]
+2. The Evolution Item for Wormmon: [[item:i1jms46h|Desperado Blaster - Beta]]
+
+Both are also farmable in QDGN, but its recommended to just buy them in the Market. **They are very cheap!**
+
+> Paildramon is a SS+ Data Range DPS which isn't that useful in the **Spiral Mountain Dungeons**, exept as a Range DPS, he can buff.
+
+---
+
+These were recommendation based on:
+
+- The current META
+- What's reliably obtainable with the current update
+- Account future-proof considerations
+
+If you want to hatch another digimon, you are also free to do your own research, or by asking on Discord or using these community resources:
+
+- [Unofficial Tier List](https://odyssey-calc.com/#/tier-list)
+- Digimons usage in dungeons: [Unofficial leaderboard](https://odyssey-calc.com/#/meter)
+
+---
 
 ### Olympian Clothes
 
@@ -486,7 +703,7 @@ If you haven't already, obtain for every clothing slot :
 - 1 [[item:ipmruh6|Olympian Data Core]]
 - 1 [[item:i3rcj1s|Chrome Digizoid]]
 
-> The main way to get both [[item:ipmruh6|Olympian Data Core]] and [[item:i3rcj1s|Chrome Digizoid]] is by doing the [raids](https://thedigitalodyssey.com/raid-timer) currently available in the game.
+> The main way to get both [[item:ipmruh6|Olympian Data Core]] and [[item:i3rcj1s|Chrome Digizoid]] is by doing the [raids](https://thedigitalodyssey.com/raid-timer) currently available in the game. So you should check the Raidtimer for **Cerberusmon Field Raid**.
 
 > You can also obtain 1 [[item:ipmruh6|Olympian Data Core]] and 1 [[item:i3rcj1s|Chrome Digizoid]] daily thanks to [[quest:q1j3ue4c|Marsmon's Routine]] which is a Daily Quest appearing in your digivice.
 
@@ -516,35 +733,47 @@ Your next and current Mid Game last goal is to craft **Corrupted Accessories**:
 
 > If you bought a tradeable accessory, consider binding it at Zudomon to reduce the cost of crafting its corrupted version.
 
-Each corrupted accessories require:
+For each corrupted accessory you require:
 
-- 5T
-- 30 [[item:i17xuw77|Dark DigiCore]]
-- 15 [[item:id7dae7|Energized Dark DigiCore]]
-- Corresponding normal accessory
+- 4T
+- 75 [[item:i1la6ah2|MetalSeadramon Essence]]
+- 60 [[item:i9ygivg|Dark DigiCore]]
+- 45 [[item:i8vp49b|Energized Dark DigiCore]]
+- 30 [[item:i1fg42u0|Piedmon Essence]]
+- Corresponding normal accessories
 
-
-You can obtain the digicores by:
+You can obtain the those items by:
 
 - Buying them from the market.
 - Farming the required dungeons directly.
 
+1. For [[item:i1la6ah2|MetalSeadramon Essence]], you need to run **MetalSeadramon Dungeon Normal** (short: mdgn) 75 times.
 
-The current most efficient method is farming Mugen N :
+[[dungeon:u1v0qmw6|The Golden Seadragon|Normal]]
 
-- The dungeon has the potential to be cleared between 20 to 40sec.
-- [[item:i17xuw77|Dark DigiCore]] is a 15% chance to drop per boss kill
-- [[item:id7dae7|Energized Dark DigiCore]] is a 7% chance to drop per boss kill
+2. For [[item:i9ygivg|Dark DigiCore]], you need to run **Puppetmon Dungeon Normal** (short: pdgn) 60 times.
 
-[[dungeon:u7ieoqy|Fullmetal Tyrant|Normal|https://share.odyssey-calc.com/guide-images/c1483a20-27ea-4b67-8e65-c15cb7cea297/f3f38de5-fb4a-4038-aff6-16e0e2d81536.png]]
+[[dungeon:u1f1esve|The Puppet Master|Normal]]
 
-A typical party composition will be 1 Tank, 1 Support and 2 DPS.
-You may however encounter parties where players run 3 DPS and 1 Hybrid/Support/Tank. Or Even 4 DPS for the most advanced.
+3. For [[item:i8vp49b|Energized Dark DigiCore]], you need to run **Mugen Dungeon Normal** (short mugen n) 45 times.
+
+[[dungeon:u7ieoqy|Fullmetal Tyrant|Normal]]
+
+4. For [[item:i1fg42u0|Piedmon Essence]], you need to run **Piedmon Dungeon Normal** (short pied n) 30 times.
+
+A typical party composition in normal is **3 DPS and 1 Hybrid**, but with **Level 130** also doable with **4 DPS**.
+Each Dungeon Drop is 100%.
 
 > One of the current META composition for SS+ locked dungeons is 1 [[digimon:d31fxga|Beelzebumon BlastMode]], 1 [[digimon:d1r632k4|Lucemon: Wild 2nd Mode]], and 2 [[digimon:d1jpeu3d|WarGreymon X]] or [[digimon:d1k8ts4t|BlackWarGreymon X]] (BWGX or WGX depending on the enemy's attribute).
 > The B/WGX players should also be the most geared, as they deal most of the damage.
+> The Armor Digimon are also viable such as Fradramon, Nefertimon, Pegasmon, Magnamon as DPS.
+> Paildramon can also be used, even when in Disadvantage with being Data. 
 
-> There is also a weekly quest you can get from your digivice each weekly reset ([[quest:q1wasddn|Preparing for the Apocalypse]]) that rewards you with half the materials needed for 1 corrupted accessory.
+> There is also a weekly quest you can get from your digivice each weekly reset ([[quest:q1wasddn|Preparing for the Apocalypse]]) that rewards you with:
+- 10 [[item:i1la6ah2|MetalSeadramon Essence]]
+- 15 [[item:i9ygivg|Dark DigiCore]]
+- 7 [[item:i8vp49b|Energized Dark DigiCore]]
+- 10 [[item:i1fg42u0|Piedmon Essence]]
 
 ---
 
@@ -587,7 +816,7 @@ You need to get 13% BL from seals, you can achieve this in a few ways:
 
 | Ring | Necklace | Earrings | Bracelet |
 | --- | --- | --- | --- |
-| BA / BA / SK% / SK% | BA / SK% / SK% / AT% | CD / CD / SK% / SK% | CD / CD / SK% / SK% |
+| BA / BA / SK% / SK% | AS / SK% / SK% / AT% | CD / CD / SK% / SK% | CD / CD / SK% / SK% |
 
 
 **Short figths (< 1min)** or **optimized party composition (0.35 AS)**
@@ -622,18 +851,36 @@ You need to get 13% BL from seals, you can achieve this in a few ways:
 
 ### SSS Digimon
 
-There are currently 4 SSS digimon you can get in the game, including 3 farmable options and 1 gacha-limited:
+SSS digimon are needed to run hard dungeons. There are some that are gacha-limited but most of them are farmable.
+Here are a few recommendations to get for each Role and Type:
 
-- [[digimon:dnwhdoz|Alphamon Ouryuken]] (AO)
-- [[digimon:d1ja7r7v|Omegamon]]
-- [[digimon:d1dnnjni|Mastemon]]
-- [[digimon:dn0vuxa|Ulforce V-Dramon X]] (UVX)
+**Vaccine**
+- Magnamon X (Tank/Support) -> Farmable in **Verdandi**
+- Ulforce V-Dramon X (Hybrid/Tank) -> Farmable in **Verdandi**
+- Omegamon (Ranged/Melee) -> Farmable in Diablo Dungeon Normal / Hard in **Dark Web**
+- Mastemon (Caster/Support) -> Farmable in Devimon Dungeon Normal in **Infinite Mountain**
+- SaintGalgomon (Tank/Ranged) -> Farmable in Vikaralamon Dungeon Normal / Hard or AOE farming in **Shinjuku**
+
+---
+
+**Virus**
+- Dukemon(Realized) (Tank/Melee) Farmable in Vajramon Dungeon Normal / Hard or AOE farming in **Shinjuku**
+- Minervamon (Tank/Melee) -> Farmable in Devimon Dungeon Normal in **Infinite Mountain**
+- Lilithmon X (Support/Caster) -> Farmable in LadyDevimon Dungeon Hard (Abyssal Keep) in **The Top of a Nightmare**
+- Millenniumon (Hybrid/Ranged) -> Farmable with Chimairamon Field Boss in **Dark Tower Wasteland**, AOE farming in **Kaiser's Domain** or Market (pretty cheap)
+
+---
+
+**Data**
+- Examon (Ranged/Hybrid) -> Farmable via Daily Quest [[quest:q1eojwkt|[Daily] An Emperor's Chore]] or OMMH (Omegamon Merciful Mode Dungeon Hard) in **Silver Lake**
+- Gankoomon X (Tank/Melee) -> Farmable in **Verdandi**
+- Jesmon X (Melee/Hybrid) -> Farmable in **Verdandi**
 
 ---
 
 #### Jogress Chip
 
-Since 3 out of 4 SSS are Jogress, I think a quick mention about this is necessary.
+Since most SSS are Jogress, I think a quick mention about this is necessary.
 
 > **IMPORTANT:** As a new player, you can get a **Jogress Chip (30 Days) box** by reaching **Tamer Lv100**.
 
@@ -650,100 +897,6 @@ As a non-spender, the easiest way to obtain crowns is by buying [[item:i1vbb0ab|
 > The best way to get MM is through Season Pass as it also rewards many other useful items.
 
 > You may also find `Jogress Chip` boxes on the market.
-
----
-
-#### AO
-
-> [[digimon:dnwhdoz|Alphamon Ouryuken]] is a gacha-limited Jogress SSS.
-> You need both [[digimon:d1ql4gn6|Dorumon]] and [[digimon:d1kcvgac|Ryudamon]] to digivolve into [[digimon:dnwhdoz|Alphamon Ouryuken]].
-
-AO is one of the strongest digimon currently available, but obtaining him requires spending crowns or buying it from other players.
-
-> **IMPORTANT**: The pity system does NOT carry over between banners. If you decide to summon, make sure you have enough resources to reach pity.
-> The summon tickets themselves DO carry over, so they can be saved for future banners.
-
-
-The most efficient way to obtain AO currently costs around **1183 Crowns** (119 [[item:i1vbb0ab|Crown Token (10C)]]).
-
-> This method relies on the current Season Pass rewards and may not remain possible in future seasons.
-
-> **IMPORTANT**: If you only want AO, check the market for `n- alpha`. If it's significantly cheaper than 119 [[item:i1vbb0ab|Crown Token (10C)]], you may buy it directly. However, I **recommend** the method below, as it can also provide useful items such as SS+ or SSS structures for future role changes.
-
-To do so:
-
-1. Purchase the Season Pass for 500c and level it to Lv.99. You will receive 18 CB [[item:imi5s0i|Data Summon Ticket: Epic [Event]]] + 150 [[item:ii7wxd4|Crown Token (1C)]] reimbursed
-2. Use the Season Pass tickets on the Alphamon Ouryuken banner. If you obtain [[item:i89igz4|X-Evolution: Alphamon Ouryuken- Alpha]], you can skip the remaining summons and proceed to step 4.
-3. If you do not obtain it, purchase additional [[item:i10lqd7b|Data Summon Ticket: Epic]] from the Cash Shop (49c each). Worst case, you will need to reach pity.
-4. Obtain [[item:i1q352vd|X-Evolution: Alphamon Ouryuken- Beta]] by exchanging 100 [[item:i1fwk1dp|X-Antibody Factor Exchange Ticket]] at Digitamamon near the Royal Base entrance in Verdandi.
-5. Unlock [[digimon:dnwhdoz|Alphamon Ouryuken]] on both [[digimon:d1ql4gn6|Dorumon]] and [[digimon:d1kcvgac|Ryudamon]].
-
-> Instead of buying the tickets, you can also buy the guaranteed packages if you have and are willing to spend extra crowns.
-> It will give you extra tickets but you can keep them for the upcoming banners.
-
----
-
-#### Omegamon
-
-> [[digimon:d1ja7r7v|Omegamon]] is a Jogress SSS that can be farmed or obtained through the gacha.
-
-This section is currently under construction.
-
-> For now, refer to the official Omegamon obtention information: [Omegamon Guide](https://docs.thedigitalodyssey.com/s/2bb157c9-224d-48ab-a6f2-697589ebe97a/doc/top-of-nightmare-gVy1NweJCj#h-omegamon-1)
-
----
-
-#### Mastemon
-
-> [[digimon:d1dnnjni|Mastemon]] is a Jogress SSS that can be farmed.
-> You need both [[digimon:dttzz0e|Salamon]] ([[digimon:d18gxr8i|Gatomon]] and [[digimon:d1x1d68d|Blackgatomon]]) to digivolve into [[digimon:d1dnnjni|Mastemon]].
-
-Mastemon is obtained through completing a total of 4 quests.
-
-You need :
-
-- 2 [[item:i1q6u9za|Angel's White Wing]], which you get by completing [[quest:q1ifu17s|A Wing Made Pure]]
-- 2 [[item:i82z3gn|Devil's Dark Wing]], which you get by completing [[quest:q17bsfzw|A Wing Made Dark]]
-
-> These quests are repeatable.
-
-1. Accept the quests based on which item you need. Both quests require the same quest item, so they cannot be completed at the same time.
-2. To obtain the quest item, kill digimon in the File Island maps. 
-3. Once the quest is completed, either: Turn it in and accept it again, or, Open Exclusive Inventory -> Quest Items and move the wings into your warehouse. This removes them from the quest counter, allowing you to continue collecting them.
-4. Repeat this process until you have completed all four quests. You will need 1000 quest items in total.
-5. Once you have collected 2 [[item:i1q6u9za|Angel's White Wing]] and 2 [[item:i82z3gn|Devil's Dark Wing]], travel to the Olympos map, talk to Culumon, and exchange them for [[item:ivxw9od|Holy Amulet]] and [[item:i4me9a7|Dark Amulet]].
-6. Unlock [[digimon:d1dnnjni|Mastemon]] on both your [[digimon:dttzz0e|Salamon]].
-
-> One of the fastest method to complete these quest is to use a Mega form Tank at the Kunemon / Dokunemon packs in Silver Lake:
-> 1. Position yourself in the middle of one of the packs.
-> 2. Use your Tank's F3 skill.
-> 3. If done correctly, the entire pack should be defeated.
-> 4. Move to the next pack and repeat the process, alternating between both packs until the quest is complete.
-
----
-
-#### UVX
-
-> [[digimon:dn0vuxa|Ulforce V-Dramon X]] is a X-Antibody SSS that can be farmed or obtained through the gacha.
-> You need [[digimon:d1loxbth|V-mon]] to digivolve into [[digimon:dn0vuxa|Ulforce V-Dramon X]].
-
-There are two ways to obtain UVX through Digitamamon near the Royal Base entrance:
-
-**Tradeable version:**
-- Exchange 10,000 [[item:iljv9p9|X-Antibody Factor Exchange Ticket]] + 10T for the tradeable [[item:i1a3u88p|X-Evolution: Ulforce V-dramon]].
-
-**Character Bound version:**
-- Complete a questline to obtain the materials required to craft the CB [[item:i1a3u88p|X-Evolution: Ulforce V-dramon]].
-- Requires 6,000 [[item:iljv9p9|X-Antibody Factor Exchange Ticket]] + 5T.
-
-> The questline unlocks after completing the main Verdandi questline and reaching Tamer Lv95.
-
-To start the questline:
-
-1. Go to Verdandi and speak to Gankoomon.
-2. Start the quest [[quest:qux20cu|The Blue Lightning]].
-3. Complete the questline to obtain the required materials (5 [[item:i8ydwr5|Refined Ulforce X-Data]]).
-4. Craft the CB [[item:i1a3u88p|X-Evolution: Ulforce V-dramon]] and unlock [[digimon:dn0vuxa|Ulforce V-Dramon X]].
 
 ---
 
@@ -774,16 +927,35 @@ For detailed information about the digimon size upgrade, fruits, transcendence E
 
 The progression after Corrupted Accessories are **Dark Accessories**.
 
-These require farming the **Hard Mode** versions of the Dark Master dungeons, they each require :
+These require farming the **Hard Mode** versions of the Spiral Mountain Dungeons, they require:
 
-- 10T
-- 50 [[item:i17xuw77|Dark DigiCore]]
-- 25 [[item:id7dae7|Energized Dark DigiCore]]
-- 100 [[item:i1m4rskx|Overloaded Dark DigiCore]]
-- 5 Boss DarkDigicores
+**Ring Data: Dark Seadragon**
+- 3T
+- 50 [[item:i1la6ah2|MetalSeadramon Essence]] -> From **Normal Dungeon**
+- 50 [[item:i1t7xles|MetalSeadramon Overloaded Digicore]] -> From **Hard Dungeon** 100% drop
+- 5 Boss Core
 - Corresponding corrupted accessory
 
-Each hard mode run guarantees 1 [[item:i1m4rskx|Overloaded Dark DigiCore]] (100% drop rate)
+**Necklace Data: Dark Puppet**
+- 3T
+- 60 [[item:i9ygivg|Dark DigiCore]] -> From **Normal Dungeon**
+- 60 [[item:i4ohqhr|Puppetmon Overloaded Digicore]] -> From **Hard Dungeon** 100% drop
+- 5 Boss Core
+- Corresponding corrupted accessory
+
+**Earring Data: Fullmetal Dark Tyrant**
+- 3T
+- 70 [[item:i8vp49b|Energized Dark DigiCore]] -> From **Normal Dungeon**
+- 70 [[item:i25cppy|Mugendramon Overloaded Digicore]] -> From **Hard Dungeon** 100% drop
+- 5 Boss Core
+- Corresponding corrupted accessory
+
+**Earring Data: Dark Clown**
+- 3T
+- 80 [[item:i1fg42u0|Piedmon Essence]] -> From **Normal Dungeon**
+- 80 [[item:i1qqf6f0|Piedmon Overloaded Digicore]] -> From **Hard Dungeon** 100% drop
+- 5 Boss Core
+- Corresponding corrupted accessory
 
 Each dungeon also has a **3% chance** to drop its corresponding **Boss Core**, each is used to upgrade one specific accessory :
 - Ring: [[item:i1hibkgj|DarkDigicore: Golden Seadragon]]
@@ -795,6 +967,8 @@ Each dungeon also has a **3% chance** to drop its corresponding **Boss Core**, e
 
 ### Next Steps
 
-> More Steps are planned to be added in the near future.
+> After this you are about to enter the Endgame. Which consists of farming Seals, doing other Hard Dungeons to farm SSS Digimon like Qinglongmon Dungeon Hard or Blackwargreymon Dungeon Hard.
 
-> I also planned to create multiple mini-guide on the website to link in this one to not bloat it as much. (For example SSS unlock guides, Accessory guides, systems explanation...)
+> Also going back to farm the Field Raid Bosses in order to get each Explorer Gear Set A-F and each Digital Gear Set A-F to craft all Olympian Gear Sets A-F to get Homeros Gear Set.
+
+> Farming Vika and Vajra Hard to upgrade the Chosen Children Goggles into Biggest Dreamer's Goggles and much more..
